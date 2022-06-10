@@ -57,7 +57,7 @@ Overall, `gitstats` presents a lot more detailed information and usually shows m
 OpenCircuits:
 ![Screenshot from 2022-06-10 13-12-19](https://user-images.githubusercontent.com/10250444/173135244-a8c1e414-2857-4501-93a0-a5bf9e35361a.png)
 
-ALPACA:git@github.com:Apexal/late.git
+ALPACA:
 ![Screenshot from 2022-06-10 15-16-55](https://user-images.githubusercontent.com/10250444/173135273-7ec171d8-aef3-4cf2-968d-00b95704a06d.png)
 
 Catan AI:
