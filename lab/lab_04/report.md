@@ -333,11 +333,23 @@ install(FILES MathFunctions.h DESTINATION include)
 ![Screenshot from 2022-06-17 12-41-16](https://user-images.githubusercontent.com/10250444/174341079-e95bbf0a-1476-4415-ba18-a8e039d90d7d.png)
 
 ## Part 2
-I didn't save my makefile before CMake overwrote it so it's less pretty but the important bit is
+I didn't save my makefile before CMake overwrote it so it's less pretty (and things are building in the same directory so no `LD_LIBRARY_PATH`, etc. are needed) but the important bit is
 `Makefile`
 ```make
 block.o: source/block.c
-	gcc -c -fPIC source/block.c
+	gcc -c -fPIC source/block.c -o block.o
+	
+archive: block.o
+	ar rc libblock.a block.o
+
+static: archive program.c
+	gcc -o static.out -L. -lblock program.c
+	
+shared_o: block.o
+	gcc -shared -o libblock.so block.o
+	
+shared: shared_o program.c
+	gcc -o shared.out -L. -lblock program.c
 ```
 My CMakeLists.txt
 ```CMake
