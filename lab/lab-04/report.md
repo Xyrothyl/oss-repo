@@ -30,3 +30,10 @@ as indicated by tldrlegal. It also says that Google can sublicense Android and p
 https://github.com/charlestian23/AWorSe
 
 ### 8. 
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/free-of-charge/bms | Yes | MIT
+https://github.com/premog2/Findme | No | -
+https://github.com/cpybus/EMPACplus | Yes | Apache 2.0
+https://github.com/apexal/late | Yes | MIT
+https://github.com/seanmiller969/smab | Yes | MIT
