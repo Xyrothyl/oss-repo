@@ -19,7 +19,7 @@ Microsoft uses the MIT license so they can keep commercialization and not be hel
 ### 7. Uber for _____ with VC funding
 https://github.com/charlestian23/AWorSe
 
-### 8. 
+### 8. RCOS Licenses
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/free-of-charge/bms | Yes | MIT
