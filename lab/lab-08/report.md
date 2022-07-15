@@ -17,18 +17,22 @@ In the build summary page there is a section for configuration/build errors and 
 The dashboard for similar builds is nece and error-free without any Angry Red Banners alerting anything.
 
 ###### 4. Terminal Output
-file:///home/xyrothyl/Pictures/Screenshot%20from%202022-07-15%2012-01-29.png![image](https://user-images.githubusercontent.com/10250444/179262183-28437d1a-e150-4a53-b54d-7a0a60a00d23.png)
+![image](https://user-images.githubusercontent.com/10250444/179262183-28437d1a-e150-4a53-b54d-7a0a60a00d23.png)
 
 ### Checkpoint 3: Passing/Failing Tests
 
 ###### 1. Failed Copyright
-file:///home/xyrothyl/Pictures/Screenshot%20from%202022-07-15%2012-09-26.png![image](https://user-images.githubusercontent.com/10250444/179263510-3a6b5885-925b-4fe9-ae93-7cfe213bbd5e.png)
+![image](https://user-images.githubusercontent.com/10250444/179263510-3a6b5885-925b-4fe9-ae93-7cfe213bbd5e.png)
 
 Fixed the error by changing `2020` to `2022` on line 2
 
-file:///home/xyrothyl/Pictures/Screenshot%20from%202022-07-15%2012-11-42.png![image](https://user-images.githubusercontent.com/10250444/179264135-e28fc8e3-3126-43ae-adb1-1cc3ca5c3b37.png)
+![image](https://user-images.githubusercontent.com/10250444/179264135-e28fc8e3-3126-43ae-adb1-1cc3ca5c3b37.png)
 
 ### Checkpoint 4: Continuous Integration
+[Action Repo](https://github.com/Xyrothyl/lab8_4/actions)
 
+![image](https://user-images.githubusercontent.com/10250444/179274235-8a3fa174-99ad-49ba-af61-e1e44b9c3b87.png)
+
+![image](https://user-images.githubusercontent.com/10250444/179274540-1cdfaed4-daa1-4ec4-bcae-256c80960b32.png)
 
 ### Checkpoint 5: Project Updates
