@@ -34,5 +34,3 @@ Fixed the error by changing `2020` to `2022` on line 2
 ![image](https://user-images.githubusercontent.com/10250444/179274235-8a3fa174-99ad-49ba-af61-e1e44b9c3b87.png)
 
 ![image](https://user-images.githubusercontent.com/10250444/179274540-1cdfaed4-daa1-4ec4-bcae-256c80960b32.png)
-
-### Checkpoint 5: Project Updates
