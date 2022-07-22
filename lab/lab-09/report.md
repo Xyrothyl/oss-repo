@@ -9,6 +9,7 @@
 Plato cow
 
 ### Part 2:
-
+![image](https://user-images.githubusercontent.com/10250444/180335541-d668f827-3759-497e-ace8-b550d25dfebb.png)
+After eventually typing everything correctly
 
 ### Part 3:
