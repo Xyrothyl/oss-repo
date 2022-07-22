@@ -5,7 +5,8 @@
 
 
 ### Part 1:
-
+![image](https://user-images.githubusercontent.com/10250444/180334789-5e57577c-84d2-4375-a18e-6ac514a9c666.png)
+Plato cow
 
 ### Part 2:
 
