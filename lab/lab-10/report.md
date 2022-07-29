@@ -23,7 +23,11 @@
 ![image](https://user-images.githubusercontent.com/10250444/181803425-8b5dce63-81f7-4907-b3cd-c3317bf8e2f5.png)
 > More Query
 
+![image](https://user-images.githubusercontent.com/10250444/181803832-f06178c2-7278-44a9-a732-459c490e7564.png)
+> Replication
 
+![image](https://user-images.githubusercontent.com/10250444/181803935-f4eb7e19-e02e-4322-ad69-46f77459d111.png)
+> Replicated
 
 ### Checkpoint 3: API Tutorial
 
