@@ -8,6 +8,21 @@
 > Fauxton welcome JSON
 
 ### Checkpoint 2: Quick Tour
+![image](https://user-images.githubusercontent.com/10250444/181801185-b68f955e-8cf0-4494-bb6f-b03d26f9c886.png)
+> System check
+
+![image](https://user-images.githubusercontent.com/10250444/181801358-5b43fded-7402-496f-ac4b-12119ee01786.png)
+> Verified
+
+![image](https://user-images.githubusercontent.com/10250444/181802083-509a9d4d-bfc2-4a02-ba41-c7904df1db01.png)
+> New Document
+
+![image](https://user-images.githubusercontent.com/10250444/181803246-5dca3fac-4530-4e0a-b6c3-e36cc853a473.png)
+> First Mango Query
+
+![image](https://user-images.githubusercontent.com/10250444/181803425-8b5dce63-81f7-4907-b3cd-c3317bf8e2f5.png)
+> More Query
+
 
 
 ### Checkpoint 3: API Tutorial
