@@ -30,6 +30,28 @@
 > Replicated
 
 ### Checkpoint 3: API Tutorial
+##### 1, 2. Server and Databases
+![image](https://user-images.githubusercontent.com/10250444/182041585-7a721ff7-aff7-4900-9dd0-7f522460681b.png)
+> Verbose DB Commands
 
+##### 3. Documents
+![image](https://user-images.githubusercontent.com/10250444/182042011-d2213900-1459-4adc-8ed3-3221c57df232.png)
+> Document Records
+
+![image](https://user-images.githubusercontent.com/10250444/182042638-08f051c9-797b-44de-9a65-e37554d2f12d.png)
+> New Versions with `_rev`
+
+![image](https://user-images.githubusercontent.com/10250444/182042877-c8c9120a-bdc4-4050-a8db-5e6aa00110e6.png)
+> Adding jpg to database w/ `PUT`
+
+![image](https://user-images.githubusercontent.com/10250444/182042853-42a8a5aa-6e05-467d-a1da-7dcedafa2911.png)
+> Artwork rendered on web client
+
+![image](https://user-images.githubusercontent.com/10250444/182042974-1b7aa1d8-5d59-4519-8147-bf6ba2335417.png)
+> New Document Member
+
+##### 4. Replication
+![image](https://user-images.githubusercontent.com/10250444/182043188-5b4393a9-70ab-4379-ae61-95f4edb50541.png)
+> Use the `_replicate` Fauxton Utility
 
 ### Checkpoint 4: What Did We Miss
