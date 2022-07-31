@@ -55,3 +55,18 @@
 > Use the `_replicate` Fauxton Utility
 
 ### Checkpoint 4: What Did We Miss
+##### 1.
+![image](https://user-images.githubusercontent.com/10250444/182044843-952dc3fc-4cbd-426e-b909-38126050f7a1.png)
+> Index Query
+
+##### 2.
+![image](https://user-images.githubusercontent.com/10250444/182044864-e662b7eb-7e26-47a8-a421-da660969057c.png)
+> Warning
+
+##### 3.
+![image](https://user-images.githubusercontent.com/10250444/182045040-11467a9c-dcbf-46a7-81a2-c6d2206a3754.png)
+> Created New Index
+
+##### 4.
+![image](https://user-images.githubusercontent.com/10250444/182045067-3630d690-c166-4d47-b3ce-2f859115a6f9.png)
+> Rerun Query
