@@ -1,6 +1,7 @@
 # Lab 11: Tensor Flow
 
 ### Checkpoint 0: Blog
+[Blog post](https://github.com/Xyrothyl/oss-repo/wiki/project-blog)
 
 ### Checkpoint 1: TesnsorFlow Install
 ![image](https://user-images.githubusercontent.com/10250444/183113027-09ff8f65-c0c0-41eb-a111-779d0ab869ad.png)
